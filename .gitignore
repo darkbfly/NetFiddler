@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+*.log
+envs_*/
+release/wxpackTool/*
+/release/qinglong.ini
